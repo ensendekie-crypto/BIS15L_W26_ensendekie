@@ -1,7 +1,7 @@
 ---
 title: "Lab 1 Homework"
 author: "Elizabeth Sendekie"
-date: "`r Sys.Date()`"
+date: "1.6.26"
 output:
   html_document: 
     theme: spacelab
@@ -20,6 +20,8 @@ I dont have any types of coding experience.
 
 
 **4. Please put a link to your GitHub repository below.**
+
+https://github.com/ensendekie-crypto/BIS15L_W26_ensendekie.git
 
 **5. Make sure that your repository includes the practice file `dummy_push` from lab 1.2. If you have not done so already, please add your name to this file, knit it, and push it to your repository.**  
 
